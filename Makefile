@@ -194,7 +194,9 @@ UPROGS=\
 	$U/_wc\
 	$U/_zombie\
 	$U/_sleep\
-	$U/_prime\
+	$U/_primes\
+	$U/_find\
+	$U/_xargs\
 
 
 
